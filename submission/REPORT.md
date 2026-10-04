@@ -2,7 +2,7 @@
 
 **Họ tên / MSSV:** Phạm Khắc Tú / 2A202602866
 
-**Repo:** https://github.com/TuTu99999/K4-Track02-Day17-PhamKhacTu-202602866-DataPipelineEngineering
+**Repo:** https://github.com/TuTu99999/K4-Track02-Day17-PhamKhacTu-2A202602866-DataPipelineEngineering
 
 **Commit mã nguồn đã kiểm tra:** `a5ea55a128ee681f845ca4172dc7306fef2f3c19`
 
