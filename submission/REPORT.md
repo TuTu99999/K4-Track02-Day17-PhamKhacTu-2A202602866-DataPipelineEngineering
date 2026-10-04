@@ -4,7 +4,7 @@
 
 **Repo:** https://github.com/TuTu99999/K4-Track02-Day17-PhamKhacTu-202602866-DataPipelineEngineering
 
-**Commit bài nộp:** TODO — điền SHA của commit cuối
+**Commit mã nguồn đã kiểm tra:** `a5ea55a128ee681f845ca4172dc7306fef2f3c19`
 
 **AI đã dùng và phạm vi hỗ trợ:** OpenAI Codex hỗ trợ đọc repo, chẩn đoán ba lỗi, sửa logic trong `pipeline/`, chạy kiểm chứng và soạn bản nháp báo cáo; tôi đã review diff và output thực tế.
 
